@@ -2,7 +2,7 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
-      <option name="ADDITIONAL_TAGS" value="source:,difficulty:,topic:,link:,description:,input:,output:,requirements:,explanation" />
+      <option name="ADDITIONAL_TAGS" value="source:,difficulty:,topic:,link:,description:,input:,output:,requirements:,explanation,explanation:" />
     </inspection_tool>
   </profile>
 </component>
